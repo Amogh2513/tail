@@ -5,6 +5,9 @@ public class database {
 		System.out.println("hello welcome to gpt");
         System.out.println("hello welcome to gpt");
         System.out.println("hello welcome to gpt");
+        System.out.println("hello welcome to gpt");
+        System.out.println("hello welcome to gpt");
+        System.out.println("hello welcome to gpt");
 
 
 
